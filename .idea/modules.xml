@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PiktoTestMap.iml" filepath="$PROJECT_DIR$/PiktoTestMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PiktuMap.iml" filepath="$PROJECT_DIR$/PiktuMap.iml" />
     </modules>
   </component>
 </project>

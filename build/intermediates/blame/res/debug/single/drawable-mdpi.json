@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\naranja.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable-mdpi\\naranja.png"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\naranja.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable-mdpi\\naranja.png"
     },

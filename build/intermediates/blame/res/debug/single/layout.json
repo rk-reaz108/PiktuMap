@@ -4,6 +4,10 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\layout\\activity_smlettermapping.xml"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\layout\\feed_back_layout.xml",
+        "source": "E:\\Running Project\\PiktuMap\\res\\layout\\feed_back_layout.xml"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\layout\\reaz_mapping.xml",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\layout\\reaz_mapping.xml"
     },
@@ -16,8 +20,16 @@
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\layout\\activity_smlettermapping.xml"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_smlettermapping.xml",
+        "source": "E:\\Running Project\\PiktuMap\\res\\layout\\activity_smlettermapping.xml"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\layout\\reaz_mapping.xml",
+        "source": "E:\\Running Project\\PiktuMap\\res\\layout\\reaz_mapping.xml"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\layout\\reaz_mapping.xml",
@@ -30,5 +42,9 @@
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Running Project\\PiktuMap\\res\\layout\\activity_main.xml"
     }
 ]

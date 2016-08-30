@@ -14,5 +14,13 @@
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\a.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable-hdpi\\a.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\a.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable-hdpi\\a.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\naranja.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable-hdpi\\naranja.png"
     }
 ]

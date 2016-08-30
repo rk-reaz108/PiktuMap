@@ -4,6 +4,10 @@
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\anim\\shake_anim.xml"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\anim\\shake_anim.xml",
+        "source": "E:\\Running Project\\PiktuMap\\res\\anim\\shake_anim.xml"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out.xml",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\anim\\zoom_out.xml"
     },
@@ -16,11 +20,19 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\anim\\shake_anim.xml"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out.xml",
+        "source": "E:\\Running Project\\PiktuMap\\res\\anim\\zoom_out.xml"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out.xml",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\anim\\zoom_out.xml"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
+        "source": "E:\\Running Project\\PiktuMap\\res\\anim\\zoom_in.xml"
     }
 ]

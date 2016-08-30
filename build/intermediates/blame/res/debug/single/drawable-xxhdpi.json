@@ -4,6 +4,10 @@
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable-xxhdpi\\naranja.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\naranja.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable-xxhdpi\\naranja.png"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\naranja.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable-xxhdpi\\naranja.png"
     }

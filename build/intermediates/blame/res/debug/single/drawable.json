@@ -12,6 +12,10 @@
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\img_letter_f.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\mesa.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\mesa.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\tendero.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\tendero.png"
     },
@@ -24,28 +28,40 @@
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\mesa.png"
     },
     {
-        "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\television.png",
-        "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\television.png"
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\plato_hondo.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\plato_hondo.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\jabon_de_manos.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\jabon_de_manos.png"
     },
     {
-        "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_q.png",
-        "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\img_letter_q.png"
+        "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\television.png",
+        "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\television.png"
     },
     {
-        "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\pera.png",
-        "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\pera.png"
+        "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_q.png",
+        "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\img_letter_q.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\jabon_de_manos.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\jabon_de_manos.png"
     },
     {
+        "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\pera.png",
+        "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\pera.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\galletas_de_chocolate.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\galletas_de_chocolate.png"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\aviones.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\aviones.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_r.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_r.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\policia.png",
@@ -60,8 +76,16 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\tarta_de_nata.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\vaso_de_leche.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\vaso_de_leche.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\cuaderno.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\cuaderno.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\pera.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\pera.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\yogur.png",
@@ -72,16 +96,16 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\vaso_de_leche.png"
     },
     {
-        "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\cuchillo_w.png",
-        "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\cuchillo_w.png"
+        "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\autobus_a.png",
+        "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\autobus_a.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\barco.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\barco.png"
     },
     {
-        "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\autobus_a.png",
-        "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\autobus_a.png"
+        "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\cuchillo_w.png",
+        "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\cuchillo_w.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_l.png",
@@ -92,8 +116,20 @@
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\gorila.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\sal.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\sal.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\jugar_al_tenis.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\jugar_al_tenis.png"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_u.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\img_letter_u.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\cocina_d.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\cocina_d.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\libro.png",
@@ -108,6 +144,10 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\bicicleta.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\aviones.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\aviones.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\perro.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\perro.png"
     },
@@ -120,16 +160,20 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\barrendero.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_g.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_g.png"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\colegio.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\colegio.png"
     },
     {
-        "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\jugar_a_los_bolos.png",
-        "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\jugar_a_los_bolos.png"
-    },
-    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\cuaderno.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\cuaderno.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\jugar_a_los_bolos.png",
+        "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\jugar_a_los_bolos.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\cafe.png",
@@ -144,6 +188,18 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\img_letter_y.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\rotulador.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\rotulador.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\sofa.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\sofa.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\magdalena.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\magdalena.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\conserje.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\conserje.png"
     },
@@ -152,12 +208,12 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\plato_hondo.png"
     },
     {
-        "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\tendero.png",
-        "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\tendero.png"
-    },
-    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\aviones.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\aviones.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\tendero.png",
+        "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\tendero.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\cantante.png",
@@ -172,8 +228,20 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\mesa.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\jabon_de_manos.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\jabon_de_manos.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_e.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_e.png"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\cerdo.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\cerdo.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\gorila.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\gorila.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\espejo.png",
@@ -188,16 +256,24 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\img_letter_s.png"
     },
     {
-        "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\test.xml",
-        "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\test.xml"
-    },
-    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\lapicero.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\lapicero.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\test.xml",
+        "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\test.xml"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\ducha_w.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\ducha_w.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_s.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\img_letter_s.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\coche.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\coche.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\yogur.png",
@@ -216,12 +292,28 @@
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\img_letter_d.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\libro.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\libro.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\folios.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\folios.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_k.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_k.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\medico.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\medico.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\azucarero.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\azucarero.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_n.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_n.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\silla_de_cocina.png",
@@ -240,8 +332,24 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\cepillo_a.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_t.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_t.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\cuaderno.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\cuaderno.png"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\a.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\a.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\pinturas.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\pinturas.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\test.xml",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\test.xml"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_d.png",
@@ -252,6 +360,18 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\jugar_al_baloncesto.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_y.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_y.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\helado.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\helado.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_m.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_m.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\vaso.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\vaso.png"
     },
@@ -260,16 +380,40 @@
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\balon.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\apple.jpeg",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\apple.jpeg"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\sofa.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\sofa.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\medico.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\medico.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\balon.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\balon.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\carromato.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\carromato.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\television.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\television.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\vaso.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\vaso.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\utensilio_de_cocina.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\utensilio_de_cocina.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\colegio.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\colegio.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\cocina_d.png",
@@ -284,12 +428,24 @@
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\goma.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_left_corner.xml",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\rounded_left_corner.xml"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\pizza.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\pizza.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\test.xml",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\test.xml"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\jugar_al_baloncesto.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\jugar_al_baloncesto.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_l.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_l.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_p.png",
@@ -300,8 +456,20 @@
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\sal.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\jugar_al_billar.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\jugar_al_billar.png"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\ducha_w.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\ducha_w.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\pizarra_digital_interactiva.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\pizarra_digital_interactiva.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\bombero.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\bombero.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\gato_negro_a.png",
@@ -316,12 +484,28 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\conserje.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\a.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\a.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\zapatilla.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\zapatilla.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\bolas_de_billar.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\bolas_de_billar.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\autobus_a.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\autobus_a.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\carromato.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\carromato.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_x.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_x.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\ducha_w.png",
@@ -348,6 +532,18 @@
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\carromato.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\profesor.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\profesor.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\cafe.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\cafe.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\bicicleta.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\bicicleta.png"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\gorila.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\gorila.png"
     },
@@ -358,6 +554,10 @@
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\jugar_al_billar.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\jugar_al_billar.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\azucarero.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\azucarero.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\sofa.png",
@@ -376,8 +576,20 @@
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\cerdo.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\silla_de_salon.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\silla_de_salon.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_t.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\img_letter_t.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\autobus_a.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\autobus_a.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\ducha.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\ducha.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_h.png",
@@ -416,8 +628,28 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\ducha.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\perro.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\perro.png"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_w.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\img_letter_w.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\barrendero.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\barrendero.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_corner.xml",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\tarta_de_nata.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\tarta_de_nata.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\balon.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\balon.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\bombero.png",
@@ -436,6 +668,10 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\jugar_al_billar.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\utensilio_de_cocina.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\utensilio_de_cocina.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\bombero.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\bombero.png"
     },
@@ -446,6 +682,10 @@
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\barrendero.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\barrendero.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_f.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_f.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_e.png",
@@ -460,8 +700,16 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\sandwich.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\cepillo_a.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\cepillo_a.png"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_k.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\img_letter_k.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\enfermera.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\enfermera.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\cafe.png",
@@ -470,6 +718,10 @@
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\pizza.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\pizza.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_s.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_s.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\pizza.png",
@@ -488,6 +740,10 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\rounded_corner.xml"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\toalla.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\toalla.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\camion_trailer.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\camion_trailer.png"
     },
@@ -502,6 +758,10 @@
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\tarta_de_nata.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\tarta_de_nata.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\almohada.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\almohada.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\libreria.png",
@@ -520,12 +780,24 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\magdalena.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\tren.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\tren.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\naranja.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\naranja.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\silla_de_salon.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\silla_de_salon.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_h.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_h.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\jugar_al_baloncesto.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\jugar_al_baloncesto.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_i.png",
@@ -544,8 +816,16 @@
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\vaso_de_leche.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\utensilio_de_cocina_h.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\utensilio_de_cocina_h.png"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_v.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\img_letter_v.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\silla_de_cocina.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\silla_de_cocina.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\toalla.png",
@@ -568,12 +848,32 @@
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\galletas_de_chocolate.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\bano.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\bano.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\pinguino.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\pinguino.png"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\manzana.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\manzana.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\jabon.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\jabon.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\chucherias.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\chucherias.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\manzana.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\manzana.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\cerdo.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\cerdo.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\balon_de_baloncesto.png",
@@ -596,8 +896,24 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\profesor.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_n1.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_n1.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\bola_de_bolos.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\bola_de_bolos.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\gato.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\gato.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\cuchara.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\cuchara.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_j.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_j.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\bano.png",
@@ -626,6 +942,10 @@
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\apple.jpeg",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\apple.jpeg"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\silla.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\silla.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\azucarero.png",
@@ -664,6 +984,10 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\bola_de_bolos.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\gato.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\gato.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\sandwich.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\sandwich.png"
     },
@@ -700,8 +1024,16 @@
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\img_letter_p.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\lapicero.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\lapicero.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\libreria.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\libreria.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\espejo.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\espejo.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_y.png",
@@ -740,16 +1072,44 @@
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\chucherias.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_right_corner.xml",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\rounded_right_corner.xml"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\enfermera.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\enfermera.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\jugar_a_los_bolos.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\jugar_a_los_bolos.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\alarma.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\alarma.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\jugar_al_futbol.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\jugar_al_futbol.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\gato.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\gato.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_q.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_q.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\bano.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\bano.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_w.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_w.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\goma.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\goma.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\alarma.png",
@@ -760,8 +1120,16 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\folios.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\z.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\z.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_l.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\img_letter_l.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\policia.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\policia.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\apple.jpeg",
@@ -772,8 +1140,20 @@
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\img_letter_w.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\gato_negro_a.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\gato_negro_a.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\z.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\z.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\yogur.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\yogur.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\grifo.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\grifo.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_k.png",
@@ -816,6 +1196,10 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\chucherias.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_b.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_b.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_x.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\img_letter_x.png"
     },
@@ -824,16 +1208,44 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\alarma.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\manzana.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\manzana.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\libreria.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\libreria.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\platano.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\platano.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\rotulador.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\rotulador.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\cantante.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\cantante.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\medico.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\medico.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\casa_a.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\casa_a.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\silla_de_cocina.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\silla_de_cocina.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\camion_trailer.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\camion_trailer.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\naranja.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\naranja.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\pinguino.png",
@@ -842,6 +1254,10 @@
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_o.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\img_letter_o.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\balon_de_baloncesto.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\balon_de_baloncesto.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\zapatilla.png",
@@ -856,12 +1272,36 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\jugar_al_tenis.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_d.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_d.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\conserje.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\conserje.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\leon.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\leon.png"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\gato_negro_a.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\gato_negro_a.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_v.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_v.png"
+    },
+    {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\pinturas.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\pinturas.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_p.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_p.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\barco.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\barco.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\magdalena.png",
@@ -870,6 +1310,10 @@
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\bola_de_bolos.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\bola_de_bolos.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\avion.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\avion.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\tren.png",
@@ -900,12 +1344,24 @@
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\a.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_u.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_u.png"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_n1.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\img_letter_n1.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_o.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_o.png"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\policia.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\policia.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\teclas_de_piano.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\teclas_de_piano.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\lapicero.png",
@@ -914,6 +1370,10 @@
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\plato_hondo.png",
         "source": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\res\\drawable\\plato_hondo.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_i.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_i.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\casa_a.png",
@@ -926,6 +1386,14 @@
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_t.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\img_letter_t.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\cuchillo_w.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\cuchillo_w.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_c.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\img_letter_c.png"
     },
     {
         "merged": "C:\\Users\\RAFI\\Desktop\\PiktoTestMap\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\silla_de_salon.png",
@@ -944,11 +1412,19 @@
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\img_letter_n.png"
     },
     {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\sandwich.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\sandwich.png"
+    },
+    {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\img_letter_h.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\img_letter_h.png"
     },
     {
         "merged": "E:\\Running Project\\PiktoTestMap\\build\\intermediates\\res\\merged\\debug\\drawable\\avion.png",
         "source": "E:\\Running Project\\PiktoTestMap\\res\\drawable\\avion.png"
+    },
+    {
+        "merged": "E:\\Running Project\\PiktuMap\\build\\intermediates\\res\\merged\\debug\\drawable\\tendero.png",
+        "source": "E:\\Running Project\\PiktuMap\\res\\drawable\\tendero.png"
     }
 ]

@@ -29,6 +29,7 @@ public class SMLetterMappingActivity extends Activity implements
 	private double density;
 
 	public static int galleryBitmapSize, mappingLettersize, mappingPicSize;
+
 //	int counter=0;
 	
 	@Override
