@@ -39,7 +39,7 @@ public class PanelMapping extends View implements OnTouchListener {
 	private ArrayList<MyPaths> paths = new ArrayList<MyPaths>();
 	private ArrayList<MyPaths> pathsX = new ArrayList<MyPaths>();
 	private ArrayList<MyPaths> total = new ArrayList<MyPaths>();
-	private int defaultColor = Color.parseColor("#7d5fbcd3"),// Color.BLUE
+	private int defaultColor = Color.parseColor("#7d5fbcd3"),// default color
 			backColor = Color.TRANSPARENT,// Color.TRANSPARENT
 			selectedColor = Color.parseColor("#7dff5555");// Color.RED
 	private int selectedFontSize = (int) SMLetterMappingActivity.screenheight * 25 / 320,
@@ -86,8 +86,10 @@ public class PanelMapping extends View implements OnTouchListener {
 		setFocusable(true);
 		setFocusableInTouchMode(true);
 		this.setOnTouchListener(this);
+
 		mMatchImageAllId = IDContainer.mMatchImageAllId;
 		mLetterImageAllId = IDContainer.mLetterImageAllId;
+
 		mCanvas = new Canvas();
 		mPlayer = new MediaPlayer();
 
@@ -355,7 +357,7 @@ public class PanelMapping extends View implements OnTouchListener {
 		}
 
 	}
-
+// reset
 	public void resetPain() {
 		// mPaint = getPaintFormat();
 		pathsX.clear();
@@ -376,7 +378,9 @@ public class PanelMapping extends View implements OnTouchListener {
 		case MotionEvent.ACTION_DOWN:
 			// resetPain();
 			getTouchedInfo(x, y);
+			//current item select and initialize  then isTouched is true after is
 			if (isTouched) {
+
 				selectedItemId = currentItemId;
 				selectedXPos = currentXPos;
 				selectedYPos = currentYPos;
@@ -394,6 +398,8 @@ public class PanelMapping extends View implements OnTouchListener {
 			if (isTouched) {
 				getTouchedInfo(x, y);
 				if (isTouched) {
+
+					// select item first show green
 					if (selectedItemId == currentItemId
 							&& selectedXPos != currentXPos) {
 
@@ -428,6 +434,7 @@ public class PanelMapping extends View implements OnTouchListener {
 												+ imageSize / 2, paint);
 
 							}
+							// after finish positive answer
 							if(MyCounter.counter2==5){
 								Feedback_alertBuilder.makerDialog(context, ((Activity) context));
 								setMusic2();
@@ -442,8 +449,10 @@ public class PanelMapping extends View implements OnTouchListener {
 					} else if (selectedXPos == currentXPos) {
 						selectedColor = Color.TRANSPARENT;
 
-					} else {
+					}
 
+					else {
+						// wrong answer
 						selectedColor = Color.parseColor("#7dff5555");
 						// selectedColor = Color.parseColor("#7dff5555"); // red
 						mWrongPosList.add(new MappingContent(currentItemId,
@@ -467,6 +476,7 @@ public class PanelMapping extends View implements OnTouchListener {
 	}
 
 	private void getTouchedInfo(float x, float y) {
+		// id,x,y  initialize  for current item
 		for (MappingContent content : mToatlCdnVIdList) {
 			if (x >= content.x1 && x <= content.x1 + imageSize
 					&& y >= content.y1 && y <= content.y1 + imageSize) {
