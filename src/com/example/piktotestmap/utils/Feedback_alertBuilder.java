@@ -27,7 +27,8 @@ public class Feedback_alertBuilder {
 
 		final Dialog dialog = new Dialog(ctx,R.style.CustomAlertDialog);
 		// R.style.CustomAlertDialog);
-	
+
+		
 		
 		dialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
 		dialog.setContentView(R.layout.feed_back_layout);
