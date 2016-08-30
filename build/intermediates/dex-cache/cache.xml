@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\RAFI\Desktop\PiktoTestMap\PiktoTestMap\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="7b225ff30f8d65efa004824f3a5c957a986233a6">
+        <dex dex="C:\Users\RAFI\Desktop\PiktoTestMap\PiktoTestMap\build\intermediates\pre-dexed\debug\instant-run_fc2704079400a81b0cf7f6b103f6d8666ba0c580.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RAFI\Desktop\PiktoTestMap\PiktoTestMap\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="0725d32f682f72bdfb3f61a2cd04dc3763710b6c">
+        <dex dex="C:\Users\RAFI\Desktop\PiktoTestMap\PiktoTestMap\build\intermediates\pre-dexed\debug\android-support-v4_64e76d5d75470d7b01f99cc5800d946d66720d30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RAFI\Desktop\PiktoTestMap\PiktoTestMap\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="6a7528fa9bffffa56e801cdc0d3c80f42748b9c3">
+        <dex dex="C:\Users\RAFI\Desktop\PiktoTestMap\PiktoTestMap\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7f7882b576976ef3e665b0b8725f34322b2297f0.jar" />
+    </item>
+
+</items>
